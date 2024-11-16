@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "2424",
+    "database": "catalogo_discos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+
+  "test": {
+    "username": "postgres",
+    "password": "2424",
+    "database": "catalogo_discos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "2424",
+    "database": "catalogo_discos",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
